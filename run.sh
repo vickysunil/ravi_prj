@@ -1,4 +1,4 @@
 
 mkdir ravi_home
-chdir $HOME/ravi_home/
+cd $HOME/ravi_home/
 hostname > hostname.txt
